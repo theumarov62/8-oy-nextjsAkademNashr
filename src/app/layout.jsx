@@ -6,6 +6,10 @@ import Footer from "./components/Footer";
 function layout() {
   return (
     <html>
+      
+        
+
+       
       <body>
         {/* Header */}
         <Header />
